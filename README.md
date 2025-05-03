@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hola!&height=100&section=header"/>
+
+   <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Beyond+the+walls...+there's+a+sea..." />
+   </a>
+
 <code>🎓 Student: KPI / IM-42</code>
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Frontend / Backend developer</code><br>
@@ -9,3 +16,6 @@
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@cro1ssan](https://telegram.me/cro1ssan)</code>
 <code>📫 [fedorenko.ivan@lll.kpi.ua](mailto:fedorenko.ivan@lll.kpi.ua)</code>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
